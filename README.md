@@ -1,11 +1,49 @@
-## Hi guys 👋
+# 👋 Hey there, I'm Reis!
 
-<!--
-**reisbigode/reisbigode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Python & JavaScript Developer**  
+🛡️ **Pentester / Security Enthusiast**  
+🤖 **AI, Automation & Data Lover**
 
-- 🔭 I am currently a Python developer.
-- 🌱 I'm also a database developer.
-- 👯 I'm currently a pentester as well.
-- 🤔 And DEV in JavaScript
+Welcome to my GitHub profile!  
+I'm a passionate developer who loves breaking things (ethically 😄), building smart solutions, automating boring tasks, and playing with data, security, and artificial intelligence.
 
-<i class="devicon-javascript-plain colored"></i>
+---
+
+## 🚀 About Me
+
+- 🐍 Python developer focused on automation, data processing and security
+- ⚡ JavaScript developer (backend & scripting)
+- 🔐 Pentester with strong interest in cybersecurity and ethical hacking
+- 🤖 Working with AI, LLMs, data automation and smart systems
+- 🗄️ Experience with databases, APIs and system integrations
+- 🧠 Always learning, always hacking, always building
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" />
+</p>
+
+### 🔐 Security / Pentesting
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" />
+</p>
+
+### 🤖 AI, Data & Automation
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" />
+</p>
+
+### 🗄️ Databases
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" />
+</p>
+
+### ⚙
