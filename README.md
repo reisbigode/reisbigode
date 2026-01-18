@@ -5,7 +5,7 @@
 🤖 **AI, Automation & Data Lover**
 
 Welcome to my GitHub profile!  
-I'm a passionate developer who loves breaking things (ethically 😄), building smart solutions, automating boring tasks, and playing with data, security, and artificial intelligence.
+I'm a passionate developer who loves breaking thing, building smart solutions, automating boring tasks, and playing with data, security, and artificial intelligence.
 
 ---
 
