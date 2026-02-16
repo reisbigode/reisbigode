@@ -12,10 +12,10 @@ I'm a passionate developer who loves breaking thing, building smart solutions, a
 ## 🚀 About Me
 
 - 🐍 Python developer focused on automation, data processing and security
+- ☕ Java developer (backend)
 - ⚡ JavaScript developer (backend & scripting)
 - 🔐 Pentester with strong interest in cybersecurity and ethical hacking
 - 🤖 Working with AI, LLMs, data automation and smart systems
-- 🗄️ Experience with databases, APIs and system integrations
 - 🧠 Always learning, always hacking, always building
 
 ---
@@ -25,6 +25,7 @@ I'm a passionate developer who loves breaking thing, building smart solutions, a
 ### 💻 Languages
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" />
 </p>
 
@@ -38,12 +39,6 @@ I'm a passionate developer who loves breaking thing, building smart solutions, a
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" />
-</p>
-
-### 🗄️ Databases
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" />
 </p>
 
 ### ⚙
