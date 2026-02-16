@@ -42,4 +42,3 @@ I'm a passionate developer who loves breaking thing, building smart solutions, a
 </p>
 
 ### ⚙
-<a href="https://discord.gg/9EkGQMuv" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
