@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Reis!
 
-💻 **Python & JavaScript Developer**  
+💻 **Python & JavaScript & Java Developer**  
 🛡️ **Pentester / Security Enthusiast**  
 🤖 **AI, Automation & Data Lover**
 
