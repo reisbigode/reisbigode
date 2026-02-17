@@ -4,8 +4,7 @@
 🛡️ **Pentester / Security Enthusiast**  
 
 Welcome to my GitHub profile!  
-I'm a passionate developer who loves breaking thing, building smart solutions, automating boring tasks, and playing with data and security.
-
+I'm a cybersecurity enthusiast and developer focused on penetration testing and ethical hacking, my main expertise lies in offensive security practices, vulnerability assessment, and building modern frontend applications using React.
 ---
 
 ## 🚀 About Me
