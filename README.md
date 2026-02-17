@@ -2,10 +2,9 @@
 
 💻 **Python & JavaScript & Java Developer**  
 🛡️ **Pentester / Security Enthusiast**  
-🤖 **AI, Automation & Data Lover**
 
 Welcome to my GitHub profile!  
-I'm a passionate developer who loves breaking thing, building smart solutions, automating boring tasks, and playing with data, security, and artificial intelligence.
+I'm a passionate developer who loves breaking thing, building smart solutions, automating boring tasks, and playing with data and security.
 
 ---
 
@@ -31,5 +30,6 @@ I'm a passionate developer who loves breaking thing, building smart solutions, a
 ### 🔐 Security / Pentesting
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kali/kali-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" width="45" />
 </p>
