@@ -11,11 +11,10 @@ I'm a passionate developer who loves breaking thing, building smart solutions, a
 
 ## 🚀 About Me
 
-- 🐍 Python developer focused on automation, data processing and security
-- ☕ Java developer (backend)
-- ⚡ JavaScript developer (backend & scripting)
+- 🐍 Python developer focused on Data & Databases
+- ☕ Java backend developer
+- ⚡ JavaScript frontend developer
 - 🔐 Pentester with strong interest in cybersecurity and ethical hacking
-- 🤖 Working with AI, LLMs, data automation and smart systems
 - 🧠 Always learning, always hacking, always building
 
 ---
@@ -33,10 +32,4 @@ I'm a passionate developer who loves breaking thing, building smart solutions, a
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" />
-</p>
-
-### 🤖 AI, Data & Automation
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" />
 </p>
