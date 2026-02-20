@@ -1,10 +1,12 @@
 # 👋 Hey there, I'm Reis!
 
 💻 **Python & JavaScript & Java Developer**  
-🛡️ **Pentester / Security Enthusiast**  
+🧑🏽‍💻 **Ethical hacker**  
 
-Welcome to my GitHub profile!  
-I'm a cybersecurity enthusiast and developer focused on penetration testing and ethical hacking, my main expertise lies in offensive security practices, vulnerability assessment, and building modern frontend applications using React.
+---
+Welcome to my GitHub profile!
+
+I'm a technology enthusiast and cybersecurity developer, focused on ethical hacking. My main expertise lies in the practice of cyberattacks.
 ---
 
 ## 🚀 About Me
@@ -26,7 +28,7 @@ I'm a cybersecurity enthusiast and developer focused on penetration testing and 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" />
 </p>
 
-### 🔐 Security / Pentesting
+### 🔐 Hacking / Pentesting
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" />
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/kalilinux.svg" width="45" />
