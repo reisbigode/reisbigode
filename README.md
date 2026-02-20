@@ -6,7 +6,7 @@
 ---
 Welcome to my GitHub profile!
 
-I'm a technology enthusiast and cybersecurity developer, focused on ethical hacking. My main expertise lies in the practice of cyberattacks.
+I am a technology enthusiast and developer, focusing on ethical hacking. My main expertise lies in the practice of cyberattacks and cybersecurity against threats.
 ---
 
 ## 🚀 About Me
