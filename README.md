@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Peur!
 
 💻 **Python & TypeScript & GO Developer**  
-🧑🏽‍💻 **IA and Full Stack professional**  
+🧑🏽‍💻 **AI and Full Stack professional**  
 
 ---
 Welcome to my GitHub profile!
