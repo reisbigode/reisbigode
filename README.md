@@ -13,7 +13,7 @@ My main skills are Python (focused on AI, FastAPI and automation), TypeScript (N
 ## 🚀 About Me
 
 - 🐍 Python developer focused on IA, FastAPI and automatice
-- 🔷 TypeScript developer focused on full-stack
+- 🔷 TypeScript developer focused on frontend
 - 🐹 Go developer focused on high-performance backend applications
 
 ## 🛠️ Tech Stack
